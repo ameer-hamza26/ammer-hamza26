@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-hamza26" alt="ameer-hamza26" /></a> </p>
 
-- 🔭 I’m currently working on [Job Connect like linkedin](https://github.com/ameer-hamza26/react-tour-booking-app.git)
+- 🔭 I’m currently working on [Tour Booking Management System](https://github.com/ameer-hamza26/react-tour-booking-app.git)
 
 - 🌱 I’m currently learning **advance Tech**
 
